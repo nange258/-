@@ -6,4 +6,6 @@ ul li {
   list-style: none;
   width: 200px;
   height: 200px;
+  float: left;
+  background: skyblue;
 }
